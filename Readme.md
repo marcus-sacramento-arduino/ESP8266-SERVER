@@ -37,6 +37,8 @@ http://rancidbacon.com/files/kiwicon8/ESP8266_WiFi_Module_Quick_Start_Guide_v_1.
 
 http://blog.filipeflop.com/wireless/esp8266-arduino-tutorial.html
 
+https://elementztechblog.wordpress.com/2015/12/03/flashing-nodemcu-firmware-in-esp-12-module/
+
 #### Desafios:
 https://olimex.wordpress.com/2015/01/29/esp8266-building-hello-world-blink-led-and-simple-web-server-to-drive-the-relay-and-check-button-status/
 
